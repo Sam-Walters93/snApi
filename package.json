@@ -1,0 +1,25 @@
+{
+  "name": "snapi",
+  "version": "1.0.0",
+  "description": "Module 18 project. Backend API for a social network.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Walters93/snApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sam-Walters93/snApi/issues"
+  },
+  "homepage": "https://github.com/Sam-Walters93/snApi#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.14"
+  }
+}
