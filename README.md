@@ -15,7 +15,7 @@
 
   ## Video
 
-  [![Walkthrough Video]([Capture](https://user-images.githubusercontent.com/68794066/122692621-dd04ae00-d1fb-11eb-8150-2a11fce2d4ca.PNG)(https://drive.google.com/file/d/1GELUXFJ5nMMXz9IcOj2mRd_HjEFngzr6/view!)
+ [![Walkthrough Video](./img/video-screenshot.jpg)](https://drive.google.com/file/d/1GELUXFJ5nMMXz9IcOj2mRd_HjEFngzr6/view)
 
  
 
