@@ -15,18 +15,17 @@
 
   ## Video
 
-  [![Walkthrough Video](./assets/images/video-screenshot.jpg)](https://drive.google.com/file/d/1FtVljKrioEDxmTyvncrS0jAK039EoJth/view)
+  [![Walkthrough Video]([Capture](https://user-images.githubusercontent.com/68794066/122692621-dd04ae00-d1fb-11eb-8150-2a11fce2d4ca.PNG)(https://drive.google.com/file/d/1GELUXFJ5nMMXz9IcOj2mRd_HjEFngzr6/view!)
+
  
 
   
-  ## Installation
- 
-  
-  ## Usage
+  ## Installation and Usage
+ To install, clone repo onto your local machine. Run "npm install" in the root folder to install dependecies. Once installed run "npm   start to activate the server. From there you can test the routes using Insomnia. 
   
 
   ## Contribution
-
+  If you would like to contribute to this project feel free. All submissions will be reviewed before publishing. 
 
   ## License
   This project was done under the MIT license to know more about it, please click here: [MIT](https://choosealicense.com/licenses/mit/)
