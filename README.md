@@ -3,12 +3,11 @@
   ![MIT](https://img.shields.io/badge/License-MIT-green)
 
   ## Description
-  
+  This project is a backend api for a social media network that includes Users, Posts (Thoughts), Reactions, and the ability to add or remove friends. 
 
   ## Table of Contents
   * [Video](#Video)
   * [Installation](#installation)
-  * [Usage](#usage)
   * [Contribution](#contribution)
   * [License](#license)
   * [Questions](#questions)
