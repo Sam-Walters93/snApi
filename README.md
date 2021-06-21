@@ -1,9 +1,10 @@
 # snApi
 
-  ![MIT](https://img.shields.io/badge/License-MIT-green)
+  ![MIT](https://img.shields.io/badge/License-MIT-green) ![JS](https://img.shields.io/badge/Language-JavaScript-Blue) ![EX](https://img.shields.io/badge/Software-Express-Yellow)
+  ![MN](https://img.shields.io/badge/Software-Mongoose-red)
 
   ## Description
-  This project is a backend api for a social media network that includes Users, Posts (Thoughts), Reactions, and the ability to add or remove friends. 
+  This project is a backend api for a social media network that utilized a NoSQL server and includes Users, Posts (Thoughts), Reactions, and the ability to add or remove friends. 
 
   ## Table of Contents
   * [Video](#Video)
