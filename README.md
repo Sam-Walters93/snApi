@@ -15,7 +15,7 @@
 
   ## Video
 
- [![Walkthrough Video](./img/video-screenshot.jpg)](https://drive.google.com/file/d/1GELUXFJ5nMMXz9IcOj2mRd_HjEFngzr6/view)
+ [![Walkthrough Video](./img/Capture.png)](https://drive.google.com/file/d/1GELUXFJ5nMMXz9IcOj2mRd_HjEFngzr6/view)
 
  
 
